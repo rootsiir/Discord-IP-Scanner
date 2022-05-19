@@ -1,0 +1,3 @@
+python dc.py
+
+pause
